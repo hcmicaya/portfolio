@@ -16,21 +16,19 @@ const About = () => {
 			</div>
 			<div className="a-right">
 				<h1 className="a-title">About Me</h1>
-				<p className="a-sub">
-					It is a long established fact that a reader will be distracted by the readable content.
-				</p>
+				<p className="a-sub">"Non est ad astra mollis e terris via"</p>
 				<p className="a-desc">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem maxime aliquid quia, quod at iusto
-					aperiam doloremque esse natus dolore soluta veniam fuga sint officiis ipsum distinctio aut quas
-					dolor!
+					Has a mechanical engineering degree and passed the FE (Mechanical) and PE (HVAC) Exams. I currently
+					work as a mechanical designer designing commercial projects. Self-taught developer who has a passion
+					in learning new technologies.
 				</p>
 				<div className="a-award">
 					<img src={Helmet} alt="" className="a-award-img" />
 					<div className="a-award-texts">
-						<h4 className="a-award-title">Best Engineer</h4>
+						<h4 className="a-award-title">Engineer-in-Training</h4>
 						<p className="a-award-desc">
-							Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab rerum aspernatur ipsum
-							consectetur ad aperiam.
+							“Normal people believe that if it ain’t broke, don’t fix it. Engineers believe that if it
+							ain’t broke, it doesn’t have enough features yet.” - Scott Adams
 						</p>
 					</div>
 				</div>

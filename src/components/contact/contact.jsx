@@ -34,7 +34,7 @@ const Contact = () => {
 					<div className="c-info">
 						<div className="c-info-item">
 							<img src={Phone} alt="" className="c-icon" />
-							+702 528-2359
+							+1 702 528-2359
 						</div>
 						<div className="c-info-item">
 							<img src={Email} alt="" className="c-icon" />
@@ -42,15 +42,14 @@ const Contact = () => {
 						</div>
 						<div className="c-info-item">
 							<img src={Address} alt="" className="c-icon" />
-							#35 Kalapati St. Vililia Village Talipapa Novaliches Quezon City Philippines
+							U.S.A
 						</div>
 					</div>
 				</div>
 				<div className="c-right">
 					<p className="c-desc">
-						<b>Lorem ipsum dolor </b>sit amet consectetur adipisicing elit. Ab, doloremque nesciunt id
-						numquam eveniet vero laudantium, corrupti, quis voluptas iusto possimus. Aperiam error officiis
-						quos provident reprehenderit rem doloremque delectus!
+						<b>What's your story? </b>I would love to be in touch with you! Always available for new
+						experiences. Please send me a message down below.
 					</p>
 					<form ref={formRef} onSubmit={handleSubmit}>
 						<input

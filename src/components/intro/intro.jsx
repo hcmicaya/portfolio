@@ -7,7 +7,7 @@ const Intro = () => {
 			<div className="i-left">
 				<div className="i-left-wrapper">
 					<h2 className="i-intro">Hello, my name is</h2>
-					<h1 className="i-name">Hans Micaya</h1>
+					<h1 className="i-name">Hans Christian Micaya</h1>
 					<div className="i-title">
 						<div className="i-title-wrapper">
 							<div className="i-title-item">Mechanical Designer</div>
@@ -16,9 +16,8 @@ const Intro = () => {
 						</div>
 					</div>
 					<p className="i-desc">
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus provident sed
-						consequuntur veniam magnam est minus voluptatem nisi dolore voluptatum molestias laudantium
-						totam quos tenetur excepturi odio soluta, quia rem!
+						I design stuff, like plumbing and HVAC systems now including web applications. Let's build
+						something amazing together!
 					</p>
 				</div>
 				<svg
