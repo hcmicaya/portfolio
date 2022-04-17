@@ -17,6 +17,14 @@ export const products = [
     },
     {
         id: 3,
+        title: "Memories",
+        desc: "React Node.js MongoDB Material-UI",
+        img: "https://i.imgur.com/M6NY46V.png",
+        link: "https://projectmemories2022.netlify.app/posts",
+        source: "https://github.com/hcmicaya/Memories",
+    },
+    {
+        id: 4,
         title: "Bulletin",
         desc: "React Node.js MongoDB AWS",
         img: "https://i.imgur.com/C29iCmU.png",
@@ -24,7 +32,7 @@ export const products = [
         source: "https://github.com/hcmicaya/Bulletin",
     },
     {
-        id: 4,
+        id: 5,
         title: "DevCamper API",
         desc: "Node.js Express MongoDB",
         img: "https://i.imgur.com/84HGF4A.jpg",
@@ -32,19 +40,11 @@ export const products = [
         source: "https://github.com/hcmicaya/devcamper",
     },
     {
-        id: 5,
+        id: 6,
         title: "E-Comm",
         desc: "Mongo Express JavaScript",
         img: "https://i.imgur.com/jKdhbGD.png",
         link: "https://hans-ecomm.herokuapp.com/",
         source: "https://github.com/hcmicaya/ecomm",
-    },
-    {
-        id: 6,
-        title: "Movie x Movie",
-        desc: "JavaScript",
-        img: "https://i.imgur.com/WZrMkh6.png",
-        link: "https://moviexmovie.herokuapp.com/",
-        source: "https://github.com/hcmicaya/MovieFight",
     },
 ];
